@@ -33,7 +33,7 @@ bot.start(async (ctx) => {
   const welcomeMessage = `
 👋 *Salom, ${name}!*
 
-*GeoEdu* — interaktiv ta'lim platformasi.
+*GeoEducationbot* — interaktiv ta'lim platformasi.
 
 Platformani ochish uchun pastdagi tugmani bosing! 🌊
   `;
